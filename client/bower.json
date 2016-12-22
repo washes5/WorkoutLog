@@ -1,12 +1,12 @@
 {
-  "name": "WorkoutLog",
-  "homepage": "https://github.com/washes5/WorkoutLog",
-  "authors": [
-    "Angie Washburn <angiewashburn1997@gmail.com>"
-  ],
+  "name": "client",
   "description": "",
-  "main": "",
-  "license": "MIT",
+  "main": "index.js",
+  "authors": [
+    "Angie Washburn <awashburn@elevenfifty.org>"
+  ],
+  "license": "ISC",
+  "homepage": "",
   "ignore": [
     "**/.*",
     "node_modules",
