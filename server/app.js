@@ -1,5 +1,6 @@
 var express = require('express');
 var app = express();
+var test = "Git test";
 
 app.use('/api/test', function(req, res){
 	res.send('Hello World');
